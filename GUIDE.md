@@ -1,3 +1,5 @@
+🇬🇧 **English** · 🇷🇺 [Русский](GUIDE.ru.md)
+
 # Build Your Own AI News Scout
 
 ### A practical guide to turning any fast-moving topic into a curated AI-assisted news system
@@ -187,7 +189,7 @@ The knowledge base should contain stable patterns, not every passing detail.
 
 Agents need more than prose. Give them a domain brief, source registry, triage rules, quality gates, output format, examples of good and bad decisions, and a definition of done.
 
-Ready-to-fill templates for all of these live in the companion repo, **[ai-newsroom-agent-configs](https://github.com/SoulAtelier/ai-newsroom-agent-configs)**.
+Ready-to-fill templates for all of these live in the companion repo, **[ai-newsroom-agent-configs](https://github.com/USER/ai-newsroom-agent-configs)** <!-- FILL: real URL of the companion repo -->.
 
 ### 12. Launch small, then expand
 
